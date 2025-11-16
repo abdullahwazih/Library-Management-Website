@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "category": "Fiction",
+    "rating": 4.8,
+    "academic": false,
+    "stock": 12,
+    "price": 15.99,
+    "cover": "/images/literary-fiction.jpg",
+    "reviews": 2847,
+    "year": 2020,
+    "pages": 304,
+    "isbn": "978-0-5955-1046-5",
+    "publisher": "Viking",
+    "language": "English",
+    "total": 15,
+    "borrowed": 3,
+    "description": "Nora Seed finds herself in The Midnight Library, caught between life and death. In a desperate search for a chance to undo her regrets and see what life she might have lived, she must quickly work through the book of possible lives to find a way to return to the one she truly wants.",
+    "synopsis": "Between life and death there is a library. When Nora Seed finds herself in the Midnight Library, she has a chance to see all the choices she might have made in life.",
+    "tags": [
+      "Contemporary",
+      "Fantasy",
+      "Self-discovery",
+      "Philosophical",
+      "Heartwarming"
+    ],
+    "availability": [
+      {
+        "floor": "Ground Floor",
+        "shelf": "B-2847",
+        "available": 5
+      },
+      {
+        "floor": "First Floor",
+        "shelf": "C-1562",
+        "available": 4
+      },
+      {
+        "floor": "Second Floor",
+        "shelf": "A-903",
+        "available": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "category": "Memoir",
+    "rating": 4.9,
+    "academic": false,
+    "stock": 8,
+    "price": 12.99,
+    "cover": "images/fantasy-book.jpg",
+    "reviews": 1923,
+    "year": 2018,
+    "pages": 334,
+    "isbn": "978-0-399-59050-4",
+    "publisher": "Random House",
+    "language": "English",
+    "total": 10,
+    "borrowed": 2,
+    "description": "A memoir about a woman who grows up in a strict and abusive household in rural Idaho but eventually escapes to learn about the wider world through education.",
+    "synopsis": "Tara Westover chronicles her struggle to reconcile her desire for education with her family’s strict, survivalist lifestyle.",
+    "tags": [
+      "Memoir",
+      "Education",
+      "Inspiring",
+      "Non-fiction"
+    ],
+    "availability": [
+      {
+        "floor": "Ground Floor",
+        "shelf": "B-1456",
+        "available": 4
+      },
+      {
+        "floor": "First Floor",
+        "shelf": "C-1111",
+        "available": 3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "category": "Science Fiction",
+    "rating": 4.7,
+    "academic": false,
+    "stock": 15,
+    "price": 18.5,
+    "cover": "images/book-cover-scifi-space.jpg",
+    "reviews": 2100,
+    "year": 2021,
+    "pages": 512,
+    "isbn": "978-0-593-13376-1",
+    "publisher": "Ballantine Books",
+    "language": "English",
+    "total": 20,
+    "borrowed": 5,
+    "description": "Ryland Grace wakes up alone on a spaceship with a mission to save humanity from an extinction-level threat.",
+    "synopsis": "A lone astronaut must solve an interstellar puzzle to prevent Earth's annihilation.",
+    "tags": [
+      "Science Fiction",
+      "Adventure",
+      "Space",
+      "Thriller"
+    ],
+    "availability": [
+      {
+        "floor": "Ground Floor",
+        "shelf": "B-2021",
+        "available": 7
+      },
+      {
+        "floor": "First Floor",
+        "shelf": "C-2100",
+        "available": 8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-Help",
+    "rating": 4.9,
+    "academic": false,
+    "stock": 20,
+    "price": 14.99,
+    "cover": "images/book-cover-habits-productivity.jpg",
+    "reviews": 3250,
+    "year": 2018,
+    "pages": 320,
+    "isbn": "978-0-7352-6702-3",
+    "publisher": "Avery",
+    "language": "English",
+    "total": 25,
+    "borrowed": 5,
+    "description": "Atomic Habits offers practical strategies to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+    "synopsis": "Small changes, big results: a guide to improving your life one habit at a time.",
+    "tags": [
+      "Self-help",
+      "Productivity",
+      "Habits",
+      "Motivation"
+    ],
+    "availability": [
+      {
+        "floor": "Ground Floor",
+        "shelf": "B-3201",
+        "available": 10
+      },
+      {
+        "floor": "First Floor",
+        "shelf": "C-3202",
+        "available": 10
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "category": "Computer Science",
+    "rating": 4.6,
+    "academic": true,
+    "department": "CSE",
+    "year": 2,
+    "semester": 1,
+    "stock": 10,
+    "price": 55.0,
+    "cover": "images/fantasy-book.jpg",
+    "reviews": 1500,
+    "pages": 1312,
+    "isbn": "978-0-262-03384-8",
+    "publisher": "MIT Press",
+    "language": "English",
+    "total": 12,
+    "borrowed": 2,
+    "description": "A comprehensive textbook covering a wide range of algorithms in depth, with rigor and clarity.",
+    "synopsis": "An essential guide for students and professionals to understand algorithms and data structures.",
+    "tags": [
+      "Algorithms",
+      "Computer Science",
+      "Academic",
+      "Textbook"
+    ],
+    "availability": [
+      {
+        "floor": "Second Floor",
+        "shelf": "A-501",
+        "available": 5
+      },
+      {
+        "floor": "Second Floor",
+        "shelf": "A-502",
+        "available": 5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Computer Architecture",
+    "author": "David Harris",
+    "category": "Engineering",
+    "rating": 4.5,
+    "academic": true,
+    "department": "EEE",
+    "year": 3,
+    "semester": 2,
+    "stock": 5,
+    "price": 60.0,
+    "cover": "images/book-cover-thriller-mystery.jpg",
+    "reviews": 900,
+    "pages": 1056,
+    "isbn": "978-0-12-800056-4",
+    "publisher": "Morgan Kaufmann",
+    "language": "English",
+    "total": 6,
+    "borrowed": 1,
+    "description": "A textbook on digital logic design and computer architecture combining theory with practical design examples.",
+    "synopsis": "Covers digital circuits, processor design, and modern computer architecture principles.",
+    "tags": [
+      "Engineering",
+      "Digital Design",
+      "Architecture",
+      "Academic"
+    ],
+    "availability": [
+      {
+        "floor": "Second Floor",
+        "shelf": "A-601",
+        "available": 3
+      },
+      {
+        "floor": "Second Floor",
+        "shelf": "A-602",
+        "available": 2
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Business Ethics",
+    "author": "Andrew Ghillyer",
+    "category": "Business",
+    "rating": 4.2,
+    "academic": true,
+    "department": "BBA",
+    "year": 1,
+    "semester": 1,
+    "stock": 7,
+    "price": 35.0,
+    "cover": "/images/literary-fiction.jpg",
+    "reviews": 550,
+    "pages": 400,
+    "isbn": "978-1-259-53088-6",
+    "publisher": "Cengage",
+    "language": "English",
+    "total": 10,
+    "borrowed": 3,
+    "description": "A textbook exploring ethical decision-making in business contexts.",
+    "synopsis": "Guidance on corporate social responsibility, ethics, and law for business students.",
+    "tags": [
+      "Business",
+      "Ethics",
+      "Academic",
+      "Management"
+    ],
+    "availability": [
+      {
+        "floor": "First Floor",
+        "shelf": "B-701",
+        "available": 4
+      },
+      {
+        "floor": "First Floor",
+        "shelf": "B-702",
+        "available": 3
+      }
+    ]
+  }
+]
